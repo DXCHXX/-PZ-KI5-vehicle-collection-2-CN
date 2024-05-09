@@ -1,9 +1,10 @@
 version=1
+id=3242929578
 title=KI5-vehicle-collection-2-CN
-description=Project Zomboid mod åˆé›† KI5's vehicle collection æ±‰åŒ–
+description=Project Zomboid mod ºÏ¼¯ KI5's vehicle collection ºº»¯
 description=
-description=æœ¬é¡¹ç›®è¯­è¨€æ–‡æœ¬ç¿»è¯‘ä½¿ç”¨å¤§è¯­è¨€æ¨¡å‹ç¿»è¯‘ã€‚
+description=±¾ÏîÄ¿ÓïÑÔÎÄ±¾·­ÒëÊ¹ÓÃ´óÓïÑÔÄ£ĞÍ·­Òë¡£
 description=
-description=æ±‰åŒ–modåœ°å€è®¢é˜…åœ°å€ï¼šhttps://steamcommunity.com/workshop/filedetails/?id=2490220997
+description=ºº»¯modµØÖ·¶©ÔÄµØÖ·£ºhttps://steamcommunity.com/workshop/filedetails/?id=2490220997
 tags=Build 41;Language/Translation
 visibility=public
