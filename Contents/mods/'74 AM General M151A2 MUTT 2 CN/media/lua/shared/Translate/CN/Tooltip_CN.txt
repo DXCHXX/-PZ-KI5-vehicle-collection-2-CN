@@ -1,12 +1,12 @@
 Tooltip_CN = {
-	Tooltip_item_runflats = "Universal military tires that will never pop but will lose traction when condition is low.",
-	Tooltip_item_M151A2runflats = "M151A2 military tires that will almost never pop but will lose traction when condition is low.",
-	Tooltip_item_M151A2Tarp1 = "Cosmetic item, it may cover your head but it will not protect you from the elements.",
-	Tooltip_item_M151A2Bumper1 = "Attach it to the front of M151A2 to protect the hood and engine.",
-	Tooltip_item_M151A2Windshield2 = "You can use scalpel to cut regular heavy duty windshields to make replacement M151A2 windshield.",
-	Tooltip_item_M151A2sideWindow2 = "You can use metal sheets to make replacement M151A2 armored viewports.",
-	Tooltip_item_M151A2Door2 = "Protects player from zombies, just don't forget to install viewports too, requires cab armor as a base for installation.",
-	Tooltip_item_M151A2Barrier1 = "Cosmetic item, metal trunk barrier for M151A2 trunk (may include a 50cal).",
-	Tooltip_item_M151A2WindshieldArmor1 = "Attach it to the front of M151A2 to protect the windshield.",
-	Tooltip_item_M151A2CabArmor1 = "Cosmetic item, base for other armor components.",
+	Tooltip_item_runflats = "通用军用轮胎，永不爆胎，但在磨损严重时会失去抓地力。",
+	Tooltip_item_M151A2runflats = "M151A2专用军用轮胎，几乎不会爆胎，但在磨损严重时会失去抓地力。",
+	Tooltip_item_M151A2Tarp1 = "装饰性物品，虽能遮盖头部，但不能抵御恶劣天气。",
+	Tooltip_item_M151A2Bumper1 = "安装于M151A2前端，保护车头及引擎。",
+	Tooltip_item_M151A2Windshield2 = "可用解剖刀裁剪重型挡风玻璃，制作M151A2替换挡风玻璃。",
+	Tooltip_item_M151A2sideWindow2 = "可用金属片制作M151A2装甲观察窗。",
+	Tooltip_item_M151A2Door2 = "保护玩家免受僵尸侵袭，别忘了也要安装观察窗，需基于驾驶室装甲安装。",
+	Tooltip_item_M151A2Barrier1 = "装饰性物品，M151A2后备箱金属隔板（可能含.50口径机枪）。",
+	Tooltip_item_M151A2WindshieldArmor1 = "安装于M151A2前端，保护挡风玻璃。",
+	Tooltip_item_M151A2CabArmor1 = "装饰性物品，其他装甲部件的基础。"
 }

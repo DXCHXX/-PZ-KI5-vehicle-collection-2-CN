@@ -1,17 +1,17 @@
 IG_UI_CN = {
 
-	IGUI_VehicleName67gt500 = "'67 Shelby GT500"
-	IGUI_VehicleName67gt500e = "'67 Shelby GT500 Eleanor"
+	IGUI_VehicleName67gt500 = "'67 雪佛兰Shelby GT500"
+	IGUI_VehicleName67gt500e = "'67 雪佛兰Shelby GT500 Eleanor"
 
-	IGUI_VehiclePartGT500FrontBumper = "FrontBumper",
-	IGUI_VehiclePartGT500RearBumper = "RearBumper",
+	IGUI_VehiclePartGT500FrontBumper = "前保险杠",
+	IGUI_VehiclePartGT500RearBumper = "后保险杠",
 
-	IGUI_VehiclePartGT500WindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartGT500WindshieldRearArmor = "Rear Windshield Armor",
-	IGUI_VehiclePartGT500WindowLeftArmor = "Front Left Window Armor",
-	IGUI_VehiclePartGT500WindowRightArmor = "Front Right Window Armor",
+	IGUI_VehiclePartGT500WindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartGT500WindshieldRearArmor = "后挡风玻璃装甲",
+	IGUI_VehiclePartGT500WindowLeftArmor = "前左车窗装甲",
+	IGUI_VehiclePartGT500WindowRightArmor = "前右车窗装甲",
 
-	IGUI_VehiclePartGT500Trunk = "Trunk Storage",
-	IGUI_VehiclePartGT500Roofrack = "Roofrack",
-	IGUI_VehiclePartGT500SpareTire = "Spare Tire",
+	IGUI_VehiclePartGT500Trunk = "后备箱储物",
+	IGUI_VehiclePartGT500Roofrack = "车顶行李架",
+	IGUI_VehiclePartGT500SpareTire = "备胎",
 }

@@ -1,17 +1,17 @@
 IG_UI_CN = {
-	IGUI_VehicleName69camaroRS = "'69 Chevrolet Camaro SS/RS"
-	IGUI_VehicleName69camaroSS = "'69 Chevrolet Camaro SS"
+	IGUI_VehicleName69camaroRS = "'69 雪佛兰科迈罗SS/RS"
+	IGUI_VehicleName69camaroSS = "'69 雪佛兰科迈罗SS"
 
-	IGUI_VehiclePartCAM69SpareTire = "Spare Tire",
-	IGUI_VehiclePartCAM69FrontBumper = "FrontBumper",
-	IGUI_VehiclePartCAM69RearBumper = "RearBumper",
+	IGUI_VehiclePartCAM69SpareTire = "备胎",
+	IGUI_VehiclePartCAM69FrontBumper = "前保险杠",
+	IGUI_VehiclePartCAM69RearBumper = "后保险杠",
 
-	IGUI_VehiclePartCAM69WindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartCAM69WindshieldRearArmor = "Rear Windshield Armor",
-	IGUI_VehiclePartCAM69WindowLeftArmor = "Front Left Window Armor",
-	IGUI_VehiclePartCAM69WindowRightArmor = "Front Right Window Armor",
+	IGUI_VehiclePartCAM69WindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartCAM69WindshieldRearArmor = "后挡风玻璃装甲",
+	IGUI_VehiclePartCAM69WindowLeftArmor = "前左车窗装甲",
+	IGUI_VehiclePartCAM69WindowRightArmor = "前右车窗装甲",
 
-	IGUI_VehiclePartCAM69Spoiler = "Spoiler",
-	IGUI_VehiclePartCAM69Trunk = "Trunk Storage",
-	IGUI_VehiclePartCAM69Roofrack = "Roofrack Storage",
+	IGUI_VehiclePartCAM69Spoiler = "尾翼",
+	IGUI_VehiclePartCAM69Trunk = "后备箱储物",
+	IGUI_VehiclePartCAM69Roofrack = "车顶行李架储物",
 }

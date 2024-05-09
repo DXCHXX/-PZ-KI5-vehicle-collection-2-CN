@@ -1,30 +1,29 @@
 IG_UI_CN = {
-	IGUI_VehicleName63beetle = "'63 Volkswagen 1300 Beetle"
-	IGUI_VehicleName63beetleHP = "'63 Volkswagen Beetle High Performance"
-	IGUI_VehicleName63beetleBuggy = "'63 Volkswagen Beetle Dune Buggy"
+	IGUI_VehicleName63beetle = "'63 大众1300 甲壳虫"
+	IGUI_VehicleName63beetleHP = "'63 大众甲壳虫 高性能版"
+	IGUI_VehicleName63beetleBuggy = "'63 大众甲壳虫 沙漠越野版"
 
-	IGUI_VehiclePartBTL63FrontBumper = "Front Bumper",
-	IGUI_VehiclePartBTL63RearBumper = "Rear Bumper",
-	IGUI_VehiclePartBTL63Sidesteps = "Sidesteps",
-	IGUI_VehiclePartBTL63Bodykit = "Bodykit",
-	IGUI_VehiclePartBTL63Spare = "Spare Tire",
-	IGUI_VehiclePartBTL63SpareA = "Spare Tire",
-	IGUI_VehiclePartBTL63SpareB = "Spare Tire",
-	IGUI_VehiclePartBTL63SpareC = "Spare Tire",
-	IGUI_VehiclePartBTL63SpareD = "Spare Tire",
-	IGUI_VehiclePartBTL63Roof = "Removable Roof",
-	IGUI_VehiclePartBTL63SmallSpoiler = "Spoiler",
-	IGUI_VehiclePartBTL63BuggySpoiler = "Spoiler",
+	IGUI_VehiclePartBTL63FrontBumper = "前保险杠",
+	IGUI_VehiclePartBTL63RearBumper = "后保险杠",
+	IGUI_VehiclePartBTL63Sidesteps = "侧踏板",
+	IGUI_VehiclePartBTL63Bodykit = "车身套件",
+	IGUI_VehiclePartBTL63Spare = "备胎",
+	IGUI_VehiclePartBTL63SpareA = "备胎",
+	IGUI_VehiclePartBTL63SpareB = "备胎",
+	IGUI_VehiclePartBTL63SpareC = "备胎",
+	IGUI_VehiclePartBTL63SpareD = "备胎",
+	IGUI_VehiclePartBTL63Roof = "可拆卸车顶",
+	IGUI_VehiclePartBTL63SmallSpoiler = "小尾翼",
+	IGUI_VehiclePartBTL63BuggySpoiler = "越野尾翼",
 
-	IGUI_VehiclePartBTL63Trunk = "Trunk Storage",
-	IGUI_VehiclePartBTL63InnerTrunk = "Rear Trunk Storage",
-	IGUI_VehiclePartBTL63Roofrack = "Roofrack",
+	IGUI_VehiclePartBTL63Trunk = "后备箱储物",
+	IGUI_VehiclePartBTL63InnerTrunk = "后部后备箱储物",
+	IGUI_VehiclePartBTL63Roofrack = "车顶行李架",
 
-	IGUI_VehiclePartBTL63WindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartBTL63FrontLeftArmor = "Front Left Window Armor",
-	IGUI_VehiclePartBTL63FrontRightArmor = "Front Right Window Armor",
-	IGUI_VehiclePartBTL63RearLeftArmor = "Rear Left Window Armor",
-	IGUI_VehiclePartBTL63RearRightArmor = "Rear Right Window Armor",
-	IGUI_VehiclePartBTL63WindshieldRearArmor = "Rear Windshield Armor",
+	IGUI_VehiclePartBTL63WindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartBTL63FrontLeftArmor = "前左车窗装甲",
+	IGUI_VehiclePartBTL63FrontRightArmor = "前右车窗装甲",
+	IGUI_VehiclePartBTL63RearLeftArmor = "后左车窗装甲",
+	IGUI_VehiclePartBTL63RearRightArmor = "后右车窗装甲",
+	IGUI_VehiclePartBTL63WindshieldRearArmor = "后挡风玻璃装甲",
 }
-

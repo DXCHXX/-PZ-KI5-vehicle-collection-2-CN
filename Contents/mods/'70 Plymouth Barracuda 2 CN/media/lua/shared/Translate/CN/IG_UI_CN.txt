@@ -1,17 +1,17 @@
 IG_UI_CN = {
-	IGUI_VehicleName70barracuda = "'70 Plymouth Barracuda"
-	IGUI_VehicleName70cuda = "'70 Plymouth Cuda"
-	IGUI_VehicleName70barracudaAAR = "'70 Plymouth Barracuda AAR"
+	IGUI_VehicleName70barracuda = "'70 普利茅斯梭鱼"
+	IGUI_VehicleName70cuda = "'70 普利茅斯CUDA"
+	IGUI_VehicleName70barracudaAAR = "'70 普利茅斯梭鱼 AAR"
 
-	IGUI_VehiclePartCUDASpareTire = "Spare Tire",
-	IGUI_VehiclePartCUDAFrontBumper = "FrontBumper",
-	IGUI_VehiclePartCUDARearBumper = "RearBumper",
+	IGUI_VehiclePartCUDASpareTire = "备胎",
+	IGUI_VehiclePartCUDAFrontBumper = "前保险杠",
+	IGUI_VehiclePartCUDARearBumper = "后保险杠",
 
-	IGUI_VehiclePartCUDAWindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartCUDAWindshieldRearArmor = "Rear Windshield Armor",
-	IGUI_VehiclePartCUDADoorLeftArmor = "Front Left Door Armor",
-	IGUI_VehiclePartCUDADoorRightArmor = "Front Right Door Armor",
+	IGUI_VehiclePartCUDAWindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartCUDAWindshieldRearArmor = "后挡风玻璃装甲",
+	IGUI_VehiclePartCUDADoorLeftArmor = "前左车门装甲",
+	IGUI_VehiclePartCUDADoorRightArmor = "前右车门装甲",
 
-	IGUI_VehiclePartCUDASpoiler = "Spoiler",
-	IGUI_VehiclePartCUDATrunk = "Trunk Storage",
+	IGUI_VehiclePartCUDASpoiler = "尾翼",
+	IGUI_VehiclePartCUDATrunk = "后备箱储物",
 }

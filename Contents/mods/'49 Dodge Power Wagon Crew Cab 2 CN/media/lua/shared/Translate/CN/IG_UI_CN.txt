@@ -1,25 +1,24 @@
 IG_UI_CN = {
-	IGUI_VehicleName49powerWagon = "'49 Dodge Power Wagon Crew Cab"
-	IGUI_VehicleName49powerWagonPD = "'49 Dodge Power Wagon Police"
-	IGUI_VehicleName49powerWagonMP = "'49 Dodge Power Wagon Military Police"
-	IGUI_VehicleName49powerWagonPA = "'49 Dodge Power Wagon Apocalypse"
+	IGUI_VehicleName49powerWagon = "'49 道奇动力马车乘员舱"
+	IGUI_VehicleName49powerWagonPD = "'49 道奇动力马车警用版"
+	IGUI_VehicleName49powerWagonMP = "'49 道奇动力马车军警版"
+	IGUI_VehicleName49powerWagonPA = "'49 道奇动力马车末日版"
 
-	IGUI_VehiclePartFenderFrontLeft = "Fender Front Left",
-	IGUI_VehiclePartFenderFrontRight = "Fender Front Right",
-	IGUI_VehiclePartFenderRearLeft = "Fender Rear Left",
-	IGUI_VehiclePartFenderRearRight = "Fender Rear Right",
-	IGUI_VehiclePartPWRFrontBumper = "Front Bumper",
-	IGUI_VehiclePartPWRSideskirts = "Sideskirts",
-	IGUI_VehiclePartPWRSpare = "Spare Tire",
+	IGUI_VehiclePartFenderFrontLeft = "左前挡泥板",
+	IGUI_VehiclePartFenderFrontRight = "右前挡泥板",
+	IGUI_VehiclePartFenderRearLeft = "左后挡泥板",
+	IGUI_VehiclePartFenderRearRight = "右后挡泥板",
+	IGUI_VehiclePartPWRFrontBumper = "前保险杠",
+	IGUI_VehiclePartPWRSideskirts = "侧裙",
+	IGUI_VehiclePartPWRSpare = "备胎",
 
-	IGUI_VehiclePartPWRTrunk = "Bed Storage",
-	IGUI_VehiclePartTruckBedSeat = "Rear Truck Bed Seat",
+	IGUI_VehiclePartPWRTrunk = "货箱储物",
+	IGUI_VehiclePartTruckBedSeat = "后部货车座椅",
 
-	IGUI_VehiclePartPWRWindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartPWRFrontLeftArmor = "Front Left DoorArmor",
-	IGUI_VehiclePartPWRFrontRightArmor = "Front Right Door Armor",
-	IGUI_VehiclePartPWRRearLeftArmor = "Rear Left Door Armor",
-	IGUI_VehiclePartPWRRearRightArmor = "Rear Right Door Armor",
-	IGUI_VehiclePartPWRWindshieldRearArmor = "Rear Windshield Armor",
+	IGUI_VehiclePartPWRWindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartPWRFrontLeftArmor = "左前门装甲",
+	IGUI_VehiclePartPWRFrontRightArmor = "右前门装甲",
+	IGUI_VehiclePartPWRRearLeftArmor = "左后门装甲",
+	IGUI_VehiclePartPWRRearRightArmor = "右后门装甲",
+	IGUI_VehiclePartPWRWindshieldRearArmor = "后挡风玻璃装甲",
 }
-
