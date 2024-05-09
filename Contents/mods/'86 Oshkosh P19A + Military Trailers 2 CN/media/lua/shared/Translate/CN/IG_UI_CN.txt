@@ -1,42 +1,40 @@
 IG_UI_CN = {
-	IGUI_VehicleName86oshkoshUSMC = "'86 Oshkosh P19A USMC"
-	IGUI_VehicleName86oshkoshKYFD = "'86 Oshkosh P19A KYFD"
-	IGUI_VehicleName86oshkoshFRTR55 = "P19A FRTR55"
-	IGUI_VehicleName86oshkoshP19ABurnt = "Burnt Oshkosh P19A"
+	IGUI_VehicleName86oshkoshUSMC = "'86 奥什科什 P19A 美国海军陆战队版",
+	IGUI_VehicleName86oshkoshKYFD = "'86 奥什科什 P19A 肯塔基消防局版",
+	IGUI_VehicleName86oshkoshFRTR55 = "P19A FRTR55",
+	IGUI_VehicleName86oshkoshP19ABurnt = "烧毁的 奥什科什 P19A",
 
-	IGUI_VehicleNameTrailerM1082 = "M1082 Trailer"
-	IGUI_VehicleNameTrailerM1082tarp = "M1082 Covered Trailer"
-	IGUI_VehicleNameTrailerM1095 = "M1095 Trailer"
-	IGUI_VehicleNameTrailerM1095tarp = "M1095 Covered Trailer"
+	IGUI_VehicleNameTrailerM1082 = "M1082 拖车",
+	IGUI_VehicleNameTrailerM1082tarp = "M1082 有篷拖车",
+	IGUI_VehicleNameTrailerM1095 = "M1095 拖车",
+	IGUI_VehicleNameTrailerM1095tarp = "M1095 有篷拖车",
 
-	IGUI_VehiclePartCatP19Arighttrunk = "Right trunk",
-	IGUI_VehiclePartCatP19Alefttrunk = "Left trunk",
+	IGUI_VehiclePartCatP19Arighttrunk = "右侧储物箱",
+	IGUI_VehiclePartCatP19Alefttrunk = "左侧储物箱",
 
-	IGUI_VehiclePartP19ABigTrunkCompartment0 = "Large Top Compartment",
-	IGUI_VehiclePartP19ASmallTrunkCompartment1 = "Small Left Compartment",
-	IGUI_VehiclePartP19ASmallTrunkCompartment2 = "Small Middle Compartment",
-	IGUI_VehiclePartP19ASmallTrunkCompartment3 = "Small Right Compartment",
+	IGUI_VehiclePartP19ABigTrunkCompartment0 = "顶部大储藏室",
+	IGUI_VehiclePartP19ASmallTrunkCompartment1 = "左侧小储藏室",
+	IGUI_VehiclePartP19ASmallTrunkCompartment2 = "中部小储藏室",
+	IGUI_VehiclePartP19ASmallTrunkCompartment3 = "右侧小储藏室",
 
-	IGUI_VehiclePartP19ABigTrunkCompartment0b = "Large Top Compartment",
-	IGUI_VehiclePartP19ASmallTrunkCompartment1b = "Small Left Compartment",
-	IGUI_VehiclePartP19ASmallTrunkCompartment3b = "Small Right Compartment",
+	IGUI_VehiclePartP19ABigTrunkCompartment0b = "顶部大储藏室",
+	IGUI_VehiclePartP19ASmallTrunkCompartment1b = "左侧小储藏室",
+	IGUI_VehiclePartP19ASmallTrunkCompartment3b = "右侧小储藏室",
 
-	IGUI_VehiclePartP19Ahatch = "Roof Hatch",
-	IGUI_VehiclePartP19ARoofrack = "Roofrack",
-	IGUI_VehiclePartTrunkDoor2 = "Trunk Lid 2",
+	IGUI_VehiclePartP19Ahatch = "车顶舱口",
+	IGUI_VehiclePartP19ARoofrack = "车顶行李架",
+	IGUI_VehiclePartTrunkDoor2 = "第二后备箱盖",
 
-	IGUI_VehiclePartP19AFenderLeft = "Rear Left Fender",
-	IGUI_VehiclePartP19AFenderRight = "Rear Right Fender",
+	IGUI_VehiclePartP19AFenderLeft = "后左侧挡泥板",
+	IGUI_VehiclePartP19AFenderRight = "后右侧挡泥板",
 
-	IGUI_VehiclePartP19ASpareMountLeft = "Rear Spare Mount",
-	IGUI_VehiclePartP19ASpareMountRear = "Roof Spare Mount",
+	IGUI_VehiclePartP19ASpareMountLeft = "后侧备胎架",
+	IGUI_VehiclePartP19ASpareMountRear = "车顶备胎架",
 
-	IGUI_VehiclePartP19ASpareTireLeft = "Rear Spare Tire",
-	IGUI_VehiclePartP19ASpareTireRear = "Roof Spare Tire",
+	IGUI_VehiclePartP19ASpareTireLeft = "后侧备胎",
+	IGUI_VehiclePartP19ASpareTireRear = "车顶备胎",
 
-	IGUI_VehiclePartP19AWindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartP19ADoorFrontLeftArmor = "Front Left Door Armor",
-	IGUI_VehiclePartP19ADoorFrontRightArmor = "Front Right Door Armor",
-
+	IGUI_VehiclePartP19AWindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartP19ADoorFrontLeftArmor = "前左门装甲",
+	IGUI_VehiclePartP19ADoorFrontRightArmor = "前右门装甲",
 }
-

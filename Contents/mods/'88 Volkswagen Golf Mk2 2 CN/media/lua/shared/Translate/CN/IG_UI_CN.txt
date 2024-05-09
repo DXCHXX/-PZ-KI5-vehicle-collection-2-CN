@@ -1,4 +1,4 @@
 IG_UI_CN = {
-	IGUI_VehicleName88golf4doorMk2 = "'88 VW Golf Mk2 4-Door"
-	IGUI_VehicleName88golf2doorMk2 = "'88 VW Golf Mk2 2-Door"
+	IGUI_VehicleName88golf4doorMk2 = "'88 大众高尔夫Mk2 四门版",
+	IGUI_VehicleName88golf2doorMk2 = "'88 大众高尔夫Mk2 两门版",
 }

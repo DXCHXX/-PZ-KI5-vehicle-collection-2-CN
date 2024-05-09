@@ -1,4 +1,4 @@
 Sandbox_CN = {
-	Sandbox_DAMN_Spawns = "KI5 | Guaranteed spawns",
-	Sandbox_DAMN_AlLAVSpawns = "Enable preset '84 Cadillac Gage LAV-300 spawns",
+	Sandbox_DAMN_Spawns = "KI5 | 保证生成点",
+	Sandbox_DAMN_AlLAVSpawns = "启用预设 '84 凯迪拉克 Gage LAV-300 生成点",
 }

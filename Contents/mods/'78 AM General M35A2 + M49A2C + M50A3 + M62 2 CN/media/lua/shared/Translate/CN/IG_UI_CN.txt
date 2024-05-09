@@ -1,9 +1,9 @@
 IG_UI_CN = {
-	IGUI_VehicleName78amgeneralM35A2 = "'78 AM(通用汽车) M35A2",
-	IGUI_VehicleName78amgeneralM49A2C = "'78 AM(通用汽车) M49A2C 燃油运输车",
-	IGUI_VehicleName78amgeneralM50A3 = "'78 AM(通用汽车) M50A3 水罐车",
-	IGUI_VehicleName78amgeneralM62 = "'78 AM(通用汽车) M62 清障车",
-	IGUI_VehicleName78amgeneralM35A2Burnt = "'78 AM(通用汽车) M35A2 烧毁版",
+	IGUI_VehicleName78amgeneralM35A2 = "'78 美国汽车公司 M35A2",
+	IGUI_VehicleName78amgeneralM49A2C = "'78 美国汽车公司 M49A2C 燃油运输车",
+	IGUI_VehicleName78amgeneralM50A3 = "'78 美国汽车公司 M50A3 水罐车",
+	IGUI_VehicleName78amgeneralM62 = "'78 美国汽车公司 M62 清障车",
+	IGUI_VehicleName78amgeneralM35A2Burnt = "'78 美国汽车公司 M35A2 烧毁版",
 
 	IGUI_VehiclePartM35A2Tarp = "平板车盖",
 	IGUI_VehiclePartM35A2CabCovers = "驾驶室护盖",

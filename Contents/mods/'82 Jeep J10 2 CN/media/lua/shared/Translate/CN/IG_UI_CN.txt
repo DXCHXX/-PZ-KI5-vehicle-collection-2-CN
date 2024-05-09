@@ -1,27 +1,26 @@
 IG_UI_CN = {
-	IGUI_VehicleName82jeepJ10 = "'82 Jeep J10"
-	IGUI_VehicleName82jeepJ10t = "'82 Jeep J10 Mellow Yellow"
-	IGUI_VehicleName82jeepJ10pd = "'82 Jeep J10 Police"
-	IGUI_VehicleName82jeepJ10ranger = "'82 Jeep J10 Ranger"
+	IGUI_VehicleName82jeepJ10 = "'82 吉普J10"
+	IGUI_VehicleName82jeepJ10t = "'82 吉普J10 醉黄版"
+	IGUI_VehicleName82jeepJ10pd = "'82 吉普J10 警用版"
+	IGUI_VehicleName82jeepJ10ranger = "'82 吉普J10 游侠版"
 
-	IGUI_VehiclePartJP82Dorothy = "Dorothy",
-	IGUI_VehiclePartJP82Windy = "Anemometer",
+	IGUI_VehiclePartJP82Dorothy = "多萝西(天线)",
+	IGUI_VehiclePartJP82Windy = "风速计",
 
-	IGUI_VehiclePartJP82Rollbar = "Rollbar",
-	IGUI_VehiclePartJP82Roofrack = "Roofrack",
-	IGUI_VehiclePartJP82BedCover = "Bed Cover",
-	IGUI_VehiclePartJP82TrunkDoorTop = "Bed Cover Lid",
-	IGUI_VehiclePartJP82Trunk = "Bed Storage",
-	IGUI_VehiclePartJP82Trunkt = "Some Bed Storage",
+	IGUI_VehiclePartJP82Rollbar = "防滚架",
+	IGUI_VehiclePartJP82Roofrack = "车顶行李架",
+	IGUI_VehiclePartJP82BedCover = "货箱盖",
+	IGUI_VehiclePartJP82TrunkDoorTop = "货箱盖顶",
+	IGUI_VehiclePartJP82Trunk = "货箱储物空间",
+	IGUI_VehiclePartJP82Trunkt = "部分货箱储物空间",
 
-	IGUI_VehiclePartJP82FrontBumper = "Front Bumper",
-	IGUI_VehiclePartJP82RearBumper = "Rear Bumper",
+	IGUI_VehiclePartJP82FrontBumper = "前保险杠",
+	IGUI_VehiclePartJP82RearBumper = "后保险杠",
 
-	IGUI_VehiclePartJP82SpareTireRear = "Rear Spare Tire",
-	IGUI_VehiclePartJP82SpareTireRoof = "Roof Spare Tire",
+	IGUI_VehiclePartJP82SpareTireRear = "后备胎",
+	IGUI_VehiclePartJP82SpareTireRoof = "车顶备胎",
 
-	IGUI_VehiclePartJP82WindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartJP82WindowFrontLeftArmor = "Front Left Window Armor",
-	IGUI_VehiclePartJP82WindowFrontRightArmor = "Front Right Window Armor",
+	IGUI_VehiclePartJP82WindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartJP82WindowFrontLeftArmor = "前左车窗装甲",
+	IGUI_VehiclePartJP82WindowFrontRightArmor = "前右车窗装甲",
 }
-

@@ -1,4 +1,4 @@
 IG_UI_CN = {
-	IGUI_VehicleName88jetta4doorMk2 = "'88 VW Jetta Mk2 4-Door"
-	IGUI_VehicleName88jetta2doorMk2 = "'88 VW Jetta Mk2 2-Door"
+	IGUI_VehicleName88jetta4doorMk2 = "'88 大众捷达Mk2 四门版",
+	IGUI_VehicleName88jetta2doorMk2 = "'88 大众捷达Mk2 两门版",
 }

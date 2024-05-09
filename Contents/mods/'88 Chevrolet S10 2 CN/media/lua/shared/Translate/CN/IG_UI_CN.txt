@@ -1,20 +1,19 @@
 IG_UI_CN = {
-	IGUI_VehicleName88chevyS10 = "'88 Chevrolet S10"
+	IGUI_VehicleName88chevyS10 = "'88 雪佛兰S10"
 
-	IGUI_VehiclePartCH88Rollbar = "Rollbar",
-	IGUI_VehiclePartCH88Roofrack = "Roofrack",
-	IGUI_VehiclePartCH88BedCover = "Bed Cover",
-	IGUI_VehiclePartCH88TrunkDoorTop = "Bed Cover Lid",
-	IGUI_VehiclePartCH88Trunk = "Bed Storage",
+	IGUI_VehiclePartCH88Rollbar = "防滚架",
+	IGUI_VehiclePartCH88Roofrack = "车顶行李架",
+	IGUI_VehiclePartCH88BedCover = "货箱盖",
+	IGUI_VehiclePartCH88TrunkDoorTop = "货箱盖板",
+	IGUI_VehiclePartCH88Trunk = "货箱储物空间",
 
-	IGUI_VehiclePartCH88FrontBumper = "Front Bumper",
-	IGUI_VehiclePartCH88RearBumper = "Rear Bumper",
+	IGUI_VehiclePartCH88FrontBumper = "前保险杠",
+	IGUI_VehiclePartCH88RearBumper = "后保险杠",
 
-	IGUI_VehiclePartCH88SpareTireRoof = "Roof Spare Tire",
-	IGUI_VehiclePartCH88SpareTireRear = "Rear Spare Tire",
+	IGUI_VehiclePartCH88SpareTireRoof = "车顶备胎",
+	IGUI_VehiclePartCH88SpareTireRear = "后部备胎",
 
-	IGUI_VehiclePartCH88WindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartCH88WindowFrontLeftArmor = "Front Left Window Armor",
-	IGUI_VehiclePartCH88WindowFrontRightArmor = "Front Right Window Armor",
+	IGUI_VehiclePartCH88WindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartCH88WindowFrontLeftArmor = "前左车窗装甲",
+	IGUI_VehiclePartCH88WindowFrontRightArmor = "前右车窗装甲",
 }
-

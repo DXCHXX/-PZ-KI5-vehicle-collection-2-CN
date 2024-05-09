@@ -1,41 +1,40 @@
 IG_UI_CN = {
-	IGUI_VehicleName86fordE150 = "'86 Ford Econoline E-150"
-	IGUI_VehicleName86fordE150pd = "'86 Ford Econoline E-150 Escape Van"
-	IGUI_VehicleName86fordE150dnd = "'86 Ford Econoline E-150"
-	IGUI_VehicleName86fordE150mm = "The Mystery Machine"
-	IGUI_VehicleName86fordE150slide = "'86 Ford Econoline E-150 with sliding door"
-	IGUI_VehicleName86fordE150long = "'86 Ford Econoline E-150 long variant"
+	IGUI_VehicleName86fordE150 = "'86 福特 Econoline E-150",
+	IGUI_VehicleName86fordE150pd = "'86 福特 Econoline E-150 逃亡面包车",
+	IGUI_VehicleName86fordE150dnd = "'86 福特 Econoline E-150",
+	IGUI_VehicleName86fordE150mm = "神秘机器",
+	IGUI_VehicleName86fordE150slide = "'86 福特 Econoline E-150 带滑门版",
+	IGUI_VehicleName86fordE150long = "'86 福特 Econoline E-150 加长版",
 
-	IGUI_VehiclePartE150SpareTire = "Spare Tire",
-	IGUI_VehiclePartE150Bumper = "Front Bumper",
-	IGUI_VehiclePartE150RearBumper = "Rear Bumper",
-	IGUI_VehiclePartE150Divider = "Cabin Divider",
+	IGUI_VehiclePartE150SpareTire = "备胎",
+	IGUI_VehiclePartE150Bumper = "前保险杠",
+	IGUI_VehiclePartE150RearBumper = "后保险杠",
+	IGUI_VehiclePartE150Divider = "驾驶舱隔板",
 
-	IGUI_VehiclePartE150WindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartE150WindshieldRearArmor = "Rear Windshield Armor",
-	IGUI_VehiclePartE150WindshieldRearLongArmor = "Rear Windshield Armor",
-	IGUI_VehiclePartE150LeftDoorArmor = "Left Door Armor",
-	IGUI_VehiclePartE150RightDoorArmor = "Right Door Armor",
-	IGUI_VehiclePartE150Trunk = "Trunk Storage",
+	IGUI_VehiclePartE150WindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartE150WindshieldRearArmor = "后挡风玻璃装甲",
+	IGUI_VehiclePartE150WindshieldRearLongArmor = "加长版后挡风玻璃装甲",
+	IGUI_VehiclePartE150LeftDoorArmor = "左车门装甲",
+	IGUI_VehiclePartE150RightDoorArmor = "右车门装甲",
+	IGUI_VehiclePartE150Trunk = "后备箱储物空间",
 
-	IGUI_VehiclePartCatfurvan = "Mutt Cutts Fur",
+	IGUI_VehiclePartCatfurvan = "宠物毛皮装饰",
 
-	IGUI_VehiclePartE150FurBody = "Chassis Fur",
-	IGUI_VehiclePartE150FurHood = "Hood Fur",
-	IGUI_VehiclePartE150FurLeftDoor = "Left Door Fur",
-	IGUI_VehiclePartE150FurRightDoor = "Right Door Fur",
-	IGUI_VehiclePartE150FurTrunkDoor = "Trunk Doors Fur",
-	IGUI_VehiclePartE150FurRearLeg = "Rear Leg",
+	IGUI_VehiclePartE150FurBody = "底盘毛皮",
+	IGUI_VehiclePartE150FurHood = "引擎盖毛皮",
+	IGUI_VehiclePartE150FurLeftDoor = "左车门毛皮",
+	IGUI_VehiclePartE150FurRightDoor = "右车门毛皮",
+	IGUI_VehiclePartE150FurTrunkDoor = "后备箱门毛皮",
+	IGUI_VehiclePartE150FurRearLeg = "后腿装饰",
 
-	IGUI_VehiclePartCatmysterymachine = "Mystery Machine",
+	IGUI_VehiclePartCatmysterymachine = "神秘机器装饰",
 
-	IGUI_VehiclePartE150MMSpareTire = "Front Spare Tire",
-	IGUI_VehiclePartE150MMRoofrack = "Surfboard Roofrack",
-	IGUI_VehiclePartE150MMSurfboards = "Surfboards",
+	IGUI_VehiclePartE150MMSpareTire = "前备胎",
+	IGUI_VehiclePartE150MMRoofrack = "冲浪板车顶架",
+	IGUI_VehiclePartE150MMSurfboards = "冲浪板套装",
 
-	IGUI_VehiclePartE150RearSeatOne = "1st Rear Seat",
-	IGUI_VehiclePartE150RearSeatTwo = "2nd Rear Seat",
-	IGUI_VehiclePartE150RearSeatThree = "3rd Rear Seat",
-	IGUI_VehiclePartE150RearCabinet = "Rear Cabinet Storage",
-
+	IGUI_VehiclePartE150RearSeatOne = "第一排后座",
+	IGUI_VehiclePartE150RearSeatTwo = "第二排后座",
+	IGUI_VehiclePartE150RearSeatThree = "第三排后座",
+	IGUI_VehiclePartE150RearCabinet = "后部储物柜",
 }

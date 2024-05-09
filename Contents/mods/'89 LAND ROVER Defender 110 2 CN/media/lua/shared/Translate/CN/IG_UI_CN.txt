@@ -1,5 +1,5 @@
 IG_UI_CN = {
-	IGUI_VehicleName89def110 = "'89 LAND ROVER Defender 110 SUV"
-	IGUI_VehicleName89def110op = "'89 LAND ROVER Defender 110 Offroad Pack SUV"
-	IGUI_VehiclePartdef110Spare = "Spare Tire Compartment",
+	IGUI_VehicleName89def110 = "'89 路路卫士110 SUV",
+	IGUI_VehicleName89def110op = "'89 路路卫士110 越野套装 SUV",
+	IGUI_VehiclePartdef110Spare = "备胎隔间",
 }

@@ -1,32 +1,31 @@
 IG_UI_CN = {
-	IGUI_VehicleName89trooper = "'89 Isuzu Trooper"
-	IGUI_VehicleName89trooperOP = "'89 Isuzu Trooper Offroad Pack"
-	IGUI_VehicleName89trooperRS = "'89 Isuzu Trooper RS"
+	IGUI_VehicleName89trooper = "'89 五十铃特工"
+	IGUI_VehicleName89trooperOP = "'89 五十铃特工越野套装"
+	IGUI_VehicleName89trooperRS = "'89 五十铃特工RS"
 
-	IGUI_VehiclePartISZ89BumperFront = "Front Bumper",
-	IGUI_VehiclePartISZ89BumperRear = "Rear Bumper",
-	IGUI_VehiclePartISZ89Mudflaps = "Mudflaps",
-	IGUI_VehiclePartISZ89SpareTire = "Rear Spare Tire",
-	IGUI_VehiclePartISZ89SpareTireFront = "Front Spare Tire",
-	IGUI_VehiclePartISZ89SideSteps = "Side Steps",
+	IGUI_VehiclePartISZ89BumperFront = "前保险杠",
+	IGUI_VehiclePartISZ89BumperRear = "后保险杠",
+	IGUI_VehiclePartISZ89Mudflaps = "挡泥板",
+	IGUI_VehiclePartISZ89SpareTire = "后备胎",
+	IGUI_VehiclePartISZ89SpareTireFront = "前备胎",
+	IGUI_VehiclePartISZ89SideSteps = "侧踏板",
 
-	IGUI_VehiclePartISZ89WindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartISZ89WindshieldRearArmor = "Rear Windshield Armor",
-	IGUI_VehiclePartISZ89DoorFrontLeftArmor = "Front Left Door Armor",
-	IGUI_VehiclePartISZ89DoorFrontRightArmor = "Front Right Door Armor",
-	IGUI_VehiclePartISZ89DoorRearLeftArmor = "Rear Left Door Armor",
-	IGUI_VehiclePartISZ89DoorRearRightArmor = "Rear Right Door Armor",
-	IGUI_VehiclePartISZ89WindowBackLeftArmor = "Back Left Window Armor",
-	IGUI_VehiclePartISZ89WindowBackRightArmor = "Back Right Window Armor",
+	IGUI_VehiclePartISZ89WindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartISZ89WindshieldRearArmor = "后挡风玻璃装甲",
+	IGUI_VehiclePartISZ89DoorFrontLeftArmor = "前左门装甲",
+	IGUI_VehiclePartISZ89DoorFrontRightArmor = "前右门装甲",
+	IGUI_VehiclePartISZ89DoorRearLeftArmor = "后左门装甲",
+	IGUI_VehiclePartISZ89DoorRearRightArmor = "后右门装甲",
+	IGUI_VehiclePartISZ89WindowBackLeftArmor = "后左窗装甲",
+	IGUI_VehiclePartISZ89WindowBackRightArmor = "后右窗装甲",
 
-	IGUI_VehiclePartWindowBackLeft = "Back Left Window",
-	IGUI_VehiclePartWindowBackRight = "Back Right Window",
+	IGUI_VehiclePartWindowBackLeft = "后左窗",
+	IGUI_VehiclePartWindowBackRight = "后右窗",
 
-	IGUI_VehiclePartISZ89Trunk = "Trunk Storage",
-	IGUI_VehiclePartISZ89Roofrack = "Roofrack",
+	IGUI_VehiclePartISZ89Trunk = "后备箱储物",
+	IGUI_VehiclePartISZ89Roofrack = "车顶行李架",
 
-	IGUI_VehiclePartISZ89GasCan0 = "Petrol Can",
-	IGUI_VehiclePartISZ89GasCan1 = "Petrol Can",
-	IGUI_VehiclePartISZ89Generator = "Generator",
-
+	IGUI_VehiclePartISZ89GasCan0 = "汽油罐",
+	IGUI_VehiclePartISZ89GasCan1 = "汽油罐",
+	IGUI_VehiclePartISZ89Generator = "发电机",
 }

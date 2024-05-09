@@ -1,24 +1,23 @@
 IG_UI_CN = {
-	IGUI_VehicleName89fordBronco = "'89 Ford Bronco"
-	IGUI_VehicleName89fordBroncoPD = "'89 Ford Bronco Police"
-	IGUI_VehicleName89fordBroncoRanger = "'89 Ford Bronco Ranger"
+	IGUI_VehicleName89fordBronco = "'89 福特野马",
+	IGUI_VehicleName89fordBroncoPD = "'89 福特野马警用版",
+	IGUI_VehicleName89fordBroncoRanger = "'89 福特游侠野马",
 
-	IGUI_VehiclePartBR89Rollbar = "Rollbar",
-	IGUI_VehiclePartBR89Roofrack = "Roofrack",
-	IGUI_VehiclePartBR89BedCover = "Bed Cover",
-	IGUI_VehiclePartBR89Barrier = "Bed Barrier",
-	IGUI_VehiclePartBR89Trunk = "Bed Storage",
+	IGUI_VehiclePartBR89Rollbar = "防滚架",
+	IGUI_VehiclePartBR89Roofrack = "车顶行李架",
+	IGUI_VehiclePartBR89BedCover = "货箱盖",
+	IGUI_VehiclePartBR89Barrier = "货箱隔板",
+	IGUI_VehiclePartBR89Trunk = "货箱储物空间",
 
-	IGUI_VehiclePartBR89FrontBumper = "Front Bumper",
-	IGUI_VehiclePartBR89RearBumper = "Rear Bumper",
+	IGUI_VehiclePartBR89FrontBumper = "前保险杠",
+	IGUI_VehiclePartBR89RearBumper = "后保险杠",
 
-	IGUI_VehiclePartBR89SpareTireRoof = "Roof Spare Tire",
-	IGUI_VehiclePartBR89SpareTireRear = "Rear Spare Tire",
+	IGUI_VehiclePartBR89SpareTireRoof = "车顶备胎",
+	IGUI_VehiclePartBR89SpareTireRear = "后部备胎",
 
-	IGUI_VehiclePartBR89WindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartBR89WindowFrontLeftArmor = "Front Left Window Armor",
-	IGUI_VehiclePartBR89WindowFrontRightArmor = "Front Right Window Armor",
-	IGUI_VehiclePartBR89WindowRearLeftArmor = "Rear Left Window Armor",
-	IGUI_VehiclePartBR89WindowRearRightArmor = "Rear Right Window Armor",
+	IGUI_VehiclePartBR89WindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartBR89WindowFrontLeftArmor = "前左车窗装甲",
+	IGUI_VehiclePartBR89WindowFrontRightArmor = "前右车窗装甲",
+	IGUI_VehiclePartBR89WindowRearLeftArmor = "后左车窗装甲",
+	IGUI_VehiclePartBR89WindowRearRightArmor = "后右车窗装甲",
 }
-

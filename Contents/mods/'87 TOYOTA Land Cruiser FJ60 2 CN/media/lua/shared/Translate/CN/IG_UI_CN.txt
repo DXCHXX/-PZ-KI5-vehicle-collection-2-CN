@@ -1,8 +1,7 @@
 IG_UI_CN = {
-	IGUI_VehicleName87cruiser = "'87 TOYOTA Land Cruiser",
-	IGUI_VehicleName87cruiserLights = "'87 TOYOTA Land Cruiser variant 2",
-	IGUI_VehicleName87cruiserRoofrack = "'87 TOYOTA Land Cruiser with roofrack",
+	IGUI_VehicleName87cruiser = "‘87 丰田陆地巡洋舰",
+	IGUI_VehicleName87cruiserLights = "‘87 丰田陆地巡洋舰 第二版",
+	IGUI_VehicleName87cruiserRoofrack = "带车顶行李架的 ‘87 丰田陆地巡洋舰",
 	
-	IGUI_VehiclePartcruiserRoofrack = "Roof Rack",
-
+	IGUI_VehiclePartcruiserRoofrack = "车顶行李架",
 }
