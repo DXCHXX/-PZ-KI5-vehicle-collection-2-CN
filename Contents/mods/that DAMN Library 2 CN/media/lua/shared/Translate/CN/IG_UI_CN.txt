@@ -1,0 +1,5 @@
+IG_UI_CN = {
+
+	IGUI_VehiclePartWindowBackLeft = "Back Left Window",
+	IGUI_VehiclePartWindowBackRight = "Back Right Window",
+}

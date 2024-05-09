@@ -1,0 +1,18 @@
+Tooltip_CN = {
+	Tooltip_item_runflats = "Universal military tires that will never pop but will lose traction when condition is low.",
+	Tooltip_item_M923Axleflats = "M923 rear axle made up of 2 military tires that will never pop but will lose traction when condition is low.",
+	Tooltip_item_M923Muffler1 = "Reduces the noise of engine somewhat",
+	Tooltip_item_M923Stakes1 = "Cosmetic item, stake construction for M923 flatbed",
+	Tooltip_item_M923Bumper1 = "Attach it to the front of M923 to somewhat protect the hood and engine.",
+	Tooltip_item_M923Bumper2 = "Attach it to the front of M923 to fully protect the hood and engine.",
+	Tooltip_item_M923HardCover1 = "Cosmetic item, hard cover for M923 cab",
+	Tooltip_item_M923SoftCover2 = "Cosmetic item, soft tarp cover for M923 cab",
+	Tooltip_item_M923Windshield2 = "You can use scalpel to cut regular heavy duty windshields to make replacement M923 windshield.",
+	Tooltip_item_M923SideWindow2 = "You can use scalpel to cut regular heavy duty windows to make replacement M923 windows.",
+	Tooltip_item_M923Gunport2 = "Metal gunports used on the back of the M923",
+	Tooltip_item_M923WindshieldArmor1 = "Attach it to the front of M923 to protect the windshield.",
+	Tooltip_item_M923DoorArmor1 = "Attach it to the M923 doors to protect doors and windows",
+	Tooltip_item_M923GuntruckArmor1 = "Used as a base for gunports and seats, installed in the flatbed",
+	Tooltip_item_M923SpareMount1 = "Used to mount spare tire in the back of the M923 cab",
+	Tooltip_item_M923Mudflaps1 = "Cosmetic item, saves the guy behind you from dust and mud",
+}

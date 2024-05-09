@@ -1,0 +1,30 @@
+IG_UI_CN = {
+	IGUI_VehicleName93chevySuburban = "'93 Chevrolet Suburban",
+	IGUI_VehicleName93chevySuburbanpd = "'93 Chevrolet Suburban PD",
+	IGUI_VehicleName93chevySuburbanksp = "'93 Chevrolet Suburban KSP",
+	IGUI_VehicleName93chevySuburbanfd = "'93 Chevrolet Suburban Fire Chief",
+	IGUI_VehicleName93chevySuburbanfbi = "'93 Chevrolet Suburban FBI",
+
+	IGUI_VehiclePartSUB93BumperFront = "Front Bumper",
+	IGUI_VehiclePartSUB93BumperRear = "Rear Bumper",
+	IGUI_VehiclePartSUB93BugGuard = "Bug Guard",
+	IGUI_VehiclePartSUB93SpareTire = "Spare Tire",
+	IGUI_VehiclePartSUB93SideSteps = "Side Steps",
+
+	IGUI_VehiclePartSUB93WindshieldArmor = "Windshield Armor",
+	IGUI_VehiclePartSUB93WindshieldRearArmor = "Rear Windshield Armor",
+	IGUI_VehiclePartSUB93WindowFrontLeftArmor = "Front Left Window Armor",
+	IGUI_VehiclePartSUB93WindowFrontRightArmor = "Front Right Window Armor",
+	IGUI_VehiclePartSUB93WindowRearLeftArmor = "Rear Left Window Armor",
+	IGUI_VehiclePartSUB93WindowRearRightArmor = "Rear Right Window Armor",
+	IGUI_VehiclePartSUB93WindowBackLeftArmor = "Back Left Window Armor",
+	IGUI_VehiclePartSUB93WindowBackRightArmor = "Back Right Window Armor",
+
+	IGUI_VehiclePartSUB93Trunk1 = "Trunk Storage",
+	IGUI_VehiclePartSUB93Trunk2 = "Trunk Storage",
+	IGUI_VehiclePartSUB93Roofrack = "Roofrack",
+	IGUI_VehiclePartSUB93Gunrack = "Gun Rack",
+
+	IGUI_VehiclePartWindowBackLeft = "Back Left Window",
+	IGUI_VehiclePartWindowBackRight = "Back Right Window",
+}

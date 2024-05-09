@@ -1,0 +1,6 @@
+IG_UI_CN = {
+	IGUI_VehicleName49ford8N = "'49 Ford 8N Tractor",
+
+	IGUI_VehiclePartF8NBumperFront = "Front Bumper",
+	IGUI_VehiclePartF8NBumperRear = "Rear Bumper",
+}
