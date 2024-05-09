@@ -1,2 +1,3 @@
 IG_UI_CN = {
-	IGUI_VehicleName90niva = "'90 Lada Niva SUV",
+	IGUI_VehicleName90niva = "'90 拉达尼瓦 SUV",
+}

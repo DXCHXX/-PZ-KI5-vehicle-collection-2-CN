@@ -1,12 +1,12 @@
 Sandbox_CN = {
-    Sandbox_StreetSweeper = "KI5 | '93 Ford CF-8000 Elgin Street Sweeper",
+    Sandbox_StreetSweeper = "KI5 | '93 福特CF-8000埃尔金街道清扫车",
 
-    Sandbox_StreetSweeper_AllowItems = "Sweep items",
-    Sandbox_StreetSweeper_AllowCorpses = "Sweep corpses",
-    Sandbox_StreetSweeper_AllowTiles = "Remove whitelisted tiles",
-    Sandbox_StreetSweeper_SpriteWhitelist = "Whitelist for sprites to be removed (a;b;c)",
-    Sandbox_StreetSweeper_SpriteWhitelist_tooltip = "You can list exact sprite names or the start of tilepacks. Separate them with ;",
-    Sandbox_StreetSweeper_AllowBlood = "Clean blood",
-    Sandbox_StreetSweeper_AllowAshes = "Sweep ashes",
-    Sandbox_StreetSweeper_AllowGrime = "Remove grime",
+    Sandbox_StreetSweeper_AllowItems = "清扫物品",
+    Sandbox_StreetSweeper_AllowCorpses = "清扫尸体",
+    Sandbox_StreetSweeper_AllowTiles = "移除白名单中的地砖",
+    Sandbox_StreetSweeper_SpriteWhitelist = "待移除精灵的白名单（a;b;c）",
+    Sandbox_StreetSweeper_SpriteWhitelist_tooltip = "你可以列出确切的精灵名或地砖包的开头。使用;分隔",
+    Sandbox_StreetSweeper_AllowBlood = "清洁血迹",
+    Sandbox_StreetSweeper_AllowAshes = "清扫灰烬",
+    Sandbox_StreetSweeper_AllowGrime = "清除污垢",
 }

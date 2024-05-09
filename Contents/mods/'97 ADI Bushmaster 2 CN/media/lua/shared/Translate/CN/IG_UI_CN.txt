@@ -1,47 +1,45 @@
 IG_UI_CN = {
-	IGUI_VehicleName97bushmaster = "'97 Bushmaster"
-	IGUI_VehicleName97bushAmbulance = "'97 Bushmaster Ambulance"
+	IGUI_VehicleName97bushmaster = "'97 巴士大师",
+	IGUI_VehicleName97bushAmbulance = "'97 巴士大师救护车",
 
-	IGUI_VehiclePartSeatDriver = "Driver Seat",
-	IGUI_VehiclePartSeatSupport = "Support Seat",
+	IGUI_VehiclePartSeatDriver = "驾驶员座位",
+	IGUI_VehiclePartSeatSupport = "辅助座位",
 	
-	IGUI_VehiclePartSeatCrew1 = "Crew Seat 1",
-	IGUI_VehiclePartSeatCrew2 = "Crew Seat 2",
-	IGUI_VehiclePartSeatCrew3 = "Crew Seat 3",
-	IGUI_VehiclePartSeatCrew4 = "Crew Seat 4",
-	IGUI_VehiclePartSeatCrew5 = "Crew Seat 5",
-	IGUI_VehiclePartSeatCrew6 = "Crew Seat 6",
-	IGUI_VehiclePartSeatCrew7 = "Crew Seat 7",
-	IGUI_VehiclePartSeatCrew8 = "Crew Seat 8",
+	IGUI_VehiclePartSeatCrew1 = "乘员座位1",
+	IGUI_VehiclePartSeatCrew2 = "乘员座位2",
+	IGUI_VehiclePartSeatCrew3 = "乘员座位3",
+	IGUI_VehiclePartSeatCrew4 = "乘员座位4",
+	IGUI_VehiclePartSeatCrew5 = "乘员座位5",
+	IGUI_VehiclePartSeatCrew6 = "乘员座位6",
+	IGUI_VehiclePartSeatCrew7 = "乘员座位7",
+	IGUI_VehiclePartSeatCrew8 = "乘员座位8",
 
-	IGUI_VehiclePartGunner = "Gunner Sling Seat",
+	IGUI_VehiclePartGunner = "炮手吊椅座位",
 
-	IGUI_VehiclePartSeatStretcher = "Stretcher",
+	IGUI_VehiclePartSeatStretcher = "担架",
 
-	IGUI_VehiclePartBUSHMudflaps = "Mudflaps",
+	IGUI_VehiclePartBUSHMudflaps = "挡泥板",
 
-	IGUI_VehiclePartBUSHFenderLeft = "Left Rear Fender",
-	IGUI_VehiclePartBUSHFenderRight = "Right Rear Fender",
+	IGUI_VehiclePartBUSHFenderLeft = "左后挡泥板",
+	IGUI_VehiclePartBUSHFenderRight = "右后挡泥板",
 
-	IGUI_VehiclePartStorageLid1 = "Left Fender Storage Lid",
-	IGUI_VehiclePartStorageLid2 = "Right Fender Storage Lid",
+	IGUI_VehiclePartStorageLid1 = "左侧挡泥板储物箱盖",
+	IGUI_VehiclePartStorageLid2 = "右侧挡泥板储物箱盖",
 
-	IGUI_VehiclePartBUSHStorageLeft = "Left Side Storage",
-	IGUI_VehiclePartBUSHStorageRight = "Right Side Storage",
+	IGUI_VehiclePartBUSHStorageLeft = "左侧储物空间",
+	IGUI_VehiclePartBUSHStorageRight = "右侧储物空间",
 
-	IGUI_VehiclePartStorageLid3 = "Right Side Storage Lid",
+	IGUI_VehiclePartStorageLid3 = "右侧储物空间盖",
 
-	IGUI_VehiclePartBUSHRoofCrates = "Roof Storage",
-	IGUI_VehiclePartBUSHAmmoCabinet = "Ammo Cabinet",
-	IGUI_VehiclePartBUSHMedicCabinet = "Medicine Cabinet",
-	IGUI_VehiclePartBUSHFloor = "Vehicle Floor",
+	IGUI_VehiclePartBUSHRoofCrates = "车顶储物",
+	IGUI_VehiclePartBUSHAmmoCabinet = "弹药柜",
+	IGUI_VehiclePartBUSHMedicCabinet = "医药柜",
+	IGUI_VehiclePartBUSHFloor = "车辆地板",
 
-	IGUI_VehiclePartBUSHSpareRight = "Spare Tire Right",
-	IGUI_VehiclePartBUSHSpareRoof = "Spare Tire Roof",
+	IGUI_VehiclePartBUSHSpareRight = "右侧备胎",
+	IGUI_VehiclePartBUSHSpareRoof = "车顶备胎",
 
-	IGUI_VehiclePartTrunkHatch = "Roof Hatch",
+	IGUI_VehiclePartTrunkHatch = "车顶舱口",
 
-	IGUI_VehiclePartBUSHBullbar = "Bullbar",
-
+	IGUI_VehiclePartBUSHBullbar = "防撞杆",
 }
-

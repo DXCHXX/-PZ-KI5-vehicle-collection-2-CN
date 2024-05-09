@@ -1,20 +1,19 @@
 IG_UI_CN = {
-	IGUI_VehicleName92nissanGTR = "'92 NISSAN Skyline GT-R (R32)",
+	IGUI_VehicleName92nissanGTR = "'92 日产天际线GT-R（R32）",
 
-	IGUI_VehiclePartR32Trunk = "Trunk storage",
-	IGUI_VehiclePartR32Muffler = "Muffler",
-	IGUI_VehiclePartR32Bumper = "Front Bumper",
-	IGUI_VehiclePartR32BumperRear = "Rear Bumper",
-	IGUI_VehiclePartR32Sideskirts = "Sideskirts",
-	IGUI_VehiclePartR32Spoiler = "Spoiler",
-	IGUI_VehiclePartR32Spare = "Spare tire compartment",
+	IGUI_VehiclePartR32Trunk = "后备箱储物",
+	IGUI_VehiclePartR32Muffler = "消音器",
+	IGUI_VehiclePartR32Bumper = "前保险杠",
+	IGUI_VehiclePartR32BumperRear = "后保险杠",
+	IGUI_VehiclePartR32Sideskirts = "侧裙",
+	IGUI_VehiclePartR32Spoiler = "尾翼",
+	IGUI_VehiclePartR32Spare = "备胎隔间",
 
-	IGUI_VehiclePartR32DoorFrontLeftArmor = "Front Left Door Armor",
-	IGUI_VehiclePartR32DoorFrontRightArmor = "Front Right Door Armor",
-	IGUI_VehiclePartR32WindowRearLeftArmor = "Rear Left Window Armor",
-	IGUI_VehiclePartR32WindowRearRightArmor = "Rear Right Window Armor",
+	IGUI_VehiclePartR32DoorFrontLeftArmor = "前左车门装甲",
+	IGUI_VehiclePartR32DoorFrontRightArmor = "前右车门装甲",
+	IGUI_VehiclePartR32WindowRearLeftArmor = "后左车窗装甲",
+	IGUI_VehiclePartR32WindowRearRightArmor = "后右车窗装甲",
 
-	IGUI_VehiclePartR32WindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartR32RearWindshieldArmor = "Rear Windshield Armor",
-
+	IGUI_VehiclePartR32WindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartR32RearWindshieldArmor = "后挡风玻璃装甲",
 }

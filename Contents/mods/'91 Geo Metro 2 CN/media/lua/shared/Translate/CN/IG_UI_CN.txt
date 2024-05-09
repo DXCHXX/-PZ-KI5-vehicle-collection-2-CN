@@ -1,17 +1,17 @@
 IG_UI_CN = {
-	IGUI_VehicleName91geoMetro = "'91 Geo Metro",
+	IGUI_VehicleName91geoMetro = "'91 吉优大都会",
 
-	IGUI_VehiclePartGEO91BumperFront = "Front Bumper",
-	IGUI_VehiclePartGEO91BumperRear = "Rear Bumper",
-	IGUI_VehiclePartGEO91SpareTire = "Spare Tire",
+	IGUI_VehiclePartGEO91BumperFront = "前保险杠",
+	IGUI_VehiclePartGEO91BumperRear = "后保险杠",
+	IGUI_VehiclePartGEO91SpareTire = "备胎",
 
-	IGUI_VehiclePartGEO91WindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartGEO91WindshieldRearArmor = "Rear Windshield Armor",
-	IGUI_VehiclePartGEO91WindowFrontLeftArmor = "Front Left Window Armor",
-	IGUI_VehiclePartGEO91WindowFrontRightArmor = "Front Right Window Armor",
-	IGUI_VehiclePartGEO91WindowRearLeftArmor = "Rear Left Window Armor",
-	IGUI_VehiclePartGEO91WindowRearRightArmor = "Rear Right Window Armor",
+	IGUI_VehiclePartGEO91WindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartGEO91WindshieldRearArmor = "后挡风玻璃装甲",
+	IGUI_VehiclePartGEO91WindowFrontLeftArmor = "前左车窗装甲",
+	IGUI_VehiclePartGEO91WindowFrontRightArmor = "前右车窗装甲",
+	IGUI_VehiclePartGEO91WindowRearLeftArmor = "后左车窗装甲",
+	IGUI_VehiclePartGEO91WindowRearRightArmor = "后右车窗装甲",
 
-	IGUI_VehiclePartGEO91Trunk = "Trunk Storage",
-	IGUI_VehiclePartGEO91Roofrack = "Roofrack",
+	IGUI_VehiclePartGEO91Trunk = "后备箱储物",
+	IGUI_VehiclePartGEO91Roofrack = "车顶行李架",
 }

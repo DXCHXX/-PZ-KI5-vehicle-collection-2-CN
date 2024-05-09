@@ -1,14 +1,14 @@
 IG_UI_CN = {
-	IGUI_VehicleName93fordElgin = "'93 Ford CF8000 Elgin Street Sweeper"
-    IGUI_VehicleName93fordElginSpec = "'93 Ford CF8000 Elgin Special Street Sweeper"
+	IGUI_VehicleName93fordElgin = "'93 福特CF8000埃尔金街道清扫车",
+	IGUI_VehicleName93fordElginSpec = "'93 福特CF8000埃尔金特别版街道清扫车"
 
-    IGUI_VehiclePartCF8KTrunk = "Waste storage",
-    IGUI_VehiclePartCF8KBumperFront = "Bumper",
-    IGUI_VehiclePartCF8KBrushes = "Sweeper Brushes",
+	IGUI_VehiclePartCF8KTrunk = "垃圾存储",
+	IGUI_VehiclePartCF8KBumperFront = "保险杠",
+	IGUI_VehiclePartCF8KBrushes = "清扫刷",
 
-	IGUI_StreetSweeper_TrunkFull = "No more space in the storage",
-    IGUI_StreetSweeper_SpaceRemaining = "%1 remaining in waste storage",
-    IGUI_StreetSweeper_AutoDeleteOn = "New items will automatically be removed",
-    IGUI_StreetSweeper_AutoDeleteOff = "New items will be put into the waste storage",
-    IGUI_StreetSweeper_ToggleAutoDelete = "Toggle auto delete",
+	IGUI_StreetSweeper_TrunkFull = "存储空间已满",
+	IGUI_StreetSweeper_SpaceRemaining = "垃圾存储剩余%1",
+	IGUI_StreetSweeper_AutoDeleteOn = "新物品将自动移除",
+	IGUI_StreetSweeper_AutoDeleteOff = "新物品将放入垃圾存储",
+	IGUI_StreetSweeper_ToggleAutoDelete = "切换自动移除功能",
 }

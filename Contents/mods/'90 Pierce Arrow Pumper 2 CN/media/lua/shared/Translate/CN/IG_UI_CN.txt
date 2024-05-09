@@ -1,35 +1,34 @@
 IG_UI_CN = {
-	IGUI_VehicleName90pierceArrow = "'90 Pierce Arrow Pumper"
+	IGUI_VehicleName90pierceArrow = "'90 皮尔斯箭头 泵浦消防车"
 
-	IGUI_VehiclePartCatARRWlefttrunk = "Left Storage",
-	IGUI_VehiclePartTrunkDoorLeft = "Left Storage Lids",
-	IGUI_VehiclePartARRWTrunkLTL = "Left Top Compartment",
-	IGUI_VehiclePartARRWTrunkLTR = "Right Top Compartment",
-	IGUI_VehiclePartARRWTrunkLBL = "Left Bottom Compartment",
-	IGUI_VehiclePartARRWTrunkLBR = "Right Bottom Compartment",
+	IGUI_VehiclePartCatARRWlefttrunk = "左侧储物区",
+	IGUI_VehiclePartTrunkDoorLeft = "左侧储物箱盖",
+	IGUI_VehiclePartARRWTrunkLTL = "左侧上层隔间",
+	IGUI_VehiclePartARRWTrunkLTR = "右侧上层隔间",
+	IGUI_VehiclePartARRWTrunkLBL = "左侧下层隔间",
+	IGUI_VehiclePartARRWTrunkLBR = "右侧下层隔间",
 
-	IGUI_VehiclePartCatARRWrighttrunk = "Right Storage",
-	IGUI_VehiclePartTrunkDoorRight = "Right Storage Lids",
-	IGUI_VehiclePartARRWTrunkRL = "Left Compartment",
-	IGUI_VehiclePartARRWTrunkRR = "Right Compartment",
+	IGUI_VehiclePartCatARRWrighttrunk = "右侧储物区",
+	IGUI_VehiclePartTrunkDoorRight = "右侧储物箱盖",
+	IGUI_VehiclePartARRWTrunkRL = "左侧隔间",
+	IGUI_VehiclePartARRWTrunkRR = "右侧隔间",
 
-	IGUI_VehiclePartTrunkDoorRear = "Trunk Lid",
-	IGUI_VehiclePartARRWTrunk = "Trunk Storage",
+	IGUI_VehiclePartTrunkDoorRear = "后备箱盖",
+	IGUI_VehiclePartARRWTrunk = "后备箱储物空间",
 
-	IGUI_VehiclePartARRWMudflaps = "Mudflaps",
-	IGUI_VehiclePartARRWBumperFront = "Bumper",
-	IGUI_VehiclePartARRWLadders = "Ladders",
-	IGUI_VehiclePartARRWHoses = "Hoses",
+	IGUI_VehiclePartARRWMudflaps = "挡泥板",
+	IGUI_VehiclePartARRWBumperFront = "前保险杠",
+	IGUI_VehiclePartARRWLadders = "梯子",
+	IGUI_VehiclePartARRWHoses = "水龙带",
 
-	IGUI_VehiclePart1500WaterTruckTank = "Water Tank",
+	IGUI_VehiclePart1500WaterTruckTank = "水箱",
 
-	IGUI_VehiclePartARRWWindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartARRWWindowFrontLeftArmor = "Front Left Window Armor",
-	IGUI_VehiclePartARRWWindowFrontRightArmor = "Front Right Window Armor",
-	IGUI_VehiclePartARRWWindowMiddleLeftArmor = "Middle Left Window Armor",
-	IGUI_VehiclePartARRWWindowMiddleRightArmor = "Middle Right Window Armor",
-	IGUI_VehiclePartARRWWindowRearLeftArmor = "Rear Left Window Armor",
-	IGUI_VehiclePartARRWWindowRearRightArmor = "Rear Right Window Armor",
-	IGUI_VehiclePartARRWWindshieldRearArmor = "Rear Windshield Armor",
+	IGUI_VehiclePartARRWWindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartARRWWindowFrontLeftArmor = "前左车窗装甲",
+	IGUI_VehiclePartARRWWindowFrontRightArmor = "前右车窗装甲",
+	IGUI_VehiclePartARRWWindowMiddleLeftArmor = "中间左车窗装甲",
+	IGUI_VehiclePartARRWWindowMiddleRightArmor = "中间右车窗装甲",
+	IGUI_VehiclePartARRWWindowRearLeftArmor = "后左车窗装甲",
+	IGUI_VehiclePartARRWWindowRearRightArmor = "后右车窗装甲",
+	IGUI_VehiclePartARRWWindshieldRearArmor = "后挡风玻璃装甲",
 }
-

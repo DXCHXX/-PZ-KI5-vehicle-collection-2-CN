@@ -1,33 +1,32 @@
 IG_UI_CN = {
-	IGUI_VehicleName90fordF350ambulance = "'90 Ford F350 Ambulance"
+	IGUI_VehicleName90fordF350ambulance = "'90 福特F350救护车"
 
-	IGUI_VehiclePartF350FrontBumper = "Front Bumper",
-	IGUI_VehiclePartF350RearBumper = "Rear Bumper",
-	IGUI_VehiclePartF350Sidesteps = "Side Steps",
+	IGUI_VehiclePartF350FrontBumper = "前保险杠",
+	IGUI_VehiclePartF350RearBumper = "后保险杠",
+	IGUI_VehiclePartF350Sidesteps = "侧踏板",
 
-	IGUI_VehiclePartStretcher = "Stretcher",
+	IGUI_VehiclePartStretcher = "担架",
 
-	IGUI_VehiclePartTrunkDoorLeft = "Left Storage Lids",
-	IGUI_VehiclePartF350TallStorage = "Left Tall Storage",
-	IGUI_VehiclePartF350LowStorage = "Left Low Storage",
+	IGUI_VehiclePartTrunkDoorLeft = "左侧储物箱盖",
+	IGUI_VehiclePartF350TallStorage = "左侧高储物柜",
+	IGUI_VehiclePartF350LowStorage = "左侧低储物柜",
 
-	IGUI_VehiclePartTrunkDoorCorner = "Corner Storage Lids",
-	IGUI_VehiclePartF350RearStorage = "Corner Top Storage",
-	IGUI_VehiclePartF350LowCornerStorage = "Corner Low Storage",
+	IGUI_VehiclePartTrunkDoorCorner = "角落储物箱盖",
+	IGUI_VehiclePartF350RearStorage = "顶部角落储物柜",
+	IGUI_VehiclePartF350LowCornerStorage = "底部角落储物柜",
 
-	IGUI_VehiclePartTrunkDoorRightA = "Right Storage Lid",
-	IGUI_VehiclePartF350RightStorage = "Right Storage",
+	IGUI_VehiclePartTrunkDoorRightA = "右侧储物箱盖",
+	IGUI_VehiclePartF350RightStorage = "右侧储物柜",
 
-	IGUI_VehiclePartF350WindshieldArmor = "Windshield Armor",
-	IGUI_VehiclePartF350WindowFrontLeftArmor = "Front Left Window Armor",
-	IGUI_VehiclePartF350WindowFrontRightArmor = "Front Right Window Armor",
-	IGUI_VehiclePartF350WindowRearRightArmor = "Rear Right Window Armor",
-	IGUI_VehiclePartF350WindshieldRearArmor = "Rear Windshield Armor",
+	IGUI_VehiclePartF350WindshieldArmor = "前挡风玻璃装甲",
+	IGUI_VehiclePartF350WindowFrontLeftArmor = "前左车窗装甲",
+	IGUI_VehiclePartF350WindowFrontRightArmor = "前右车窗装甲",
+	IGUI_VehiclePartF350WindowRearRightArmor = "后右车窗装甲",
+	IGUI_VehiclePartF350WindshieldRearArmor = "后挡风玻璃装甲",
 
-	IGUI_VehiclePartF350InsideFrontStorage = "Interior Front Storage",
+	IGUI_VehiclePartF350InsideFrontStorage = "内部前部储物空间",
 
-	IGUI_VehiclePartF350InsideLeftStorage = "Interior Left Storage",
-	IGUI_VehiclePartF350InsideRightTopStorage = "Interior Right Top Storage",
-	IGUI_VehiclePartF350InsideRightBottomStorage = "Interior Right Bottom Storage",
+	IGUI_VehiclePartF350InsideLeftStorage = "内部左侧储物",
+	IGUI_VehiclePartF350InsideRightTopStorage = "内部右侧顶部储物",
+	IGUI_VehiclePartF350InsideRightBottomStorage = "内部右侧底部储物",
 }
-

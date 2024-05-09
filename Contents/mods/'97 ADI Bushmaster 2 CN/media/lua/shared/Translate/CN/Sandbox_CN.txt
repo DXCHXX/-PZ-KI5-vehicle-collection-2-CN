@@ -1,4 +1,4 @@
 Sandbox_CN = {
-	Sandbox_DAMN_Spawns = "KI5 | Guaranteed spawns",
-	Sandbox_DAMN_AllowBushmasterSpawns = "Enable preset '97 ADI Bushmaster spawns",
+	Sandbox_DAMN_Spawns = "KI5 | 保证生成点",
+	Sandbox_DAMN_AllowBushmasterSpawns = "启用预设 '97 年ADI巴士大师生成点",
 }
