@@ -3,6 +3,8 @@ id=3242929578
 title=KI5-vehicle-collection-2-CN
 description=Project Zomboid mod 合集 KI5's vehicle collection 汉化
 description=
+description=包括合集内所有车辆，除未提供语言文件外的车辆，如更新后有遗漏，call 我。
+description=
 description=本项目语言文本翻译使用大语言模型翻译。
 description=
 description=汉化mod地址订阅地址：https://steamcommunity.com/workshop/filedetails/?id=2490220997
