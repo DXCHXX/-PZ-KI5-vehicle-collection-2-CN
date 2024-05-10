@@ -1,7 +1,7 @@
 IG_UI_CN = {
-	IGUI_VehicleName74amgeneralM151A2 = "'74 美国汽车公司 M151A2 小型通用卡车(MUTT)",
-	IGUI_VehicleName74amgeneralM151A2MP = "'74 美国汽车公司 M151A2 军警版",
-	IGUI_VehicleName74amgeneralM151A2Burnt = "'74 美国汽车公司 M151A2 小型通用卡车(MUTT) 烧毁版",
+	IGUI_VehicleName74amgeneralM151A2 = "'74 美国汽车 M151A2 小型通用卡车(MUTT)",
+	IGUI_VehicleName74amgeneralM151A2MP = "'74 美国汽车 M151A2 军警版",
+	IGUI_VehicleName74amgeneralM151A2Burnt = "'74 美国汽车 M151A2 小型通用卡车(MUTT) 烧毁版",
 
 	IGUI_VehiclePartM151A2Tarp = "软顶后盖",
 	IGUI_VehiclePartM151A2WindshieldArmor = "前挡风玻璃装甲",

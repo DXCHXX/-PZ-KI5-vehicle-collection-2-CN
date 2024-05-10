@@ -20,5 +20,5 @@ IG_UI_CN = {
 
 	IGUI_VehiclePartF3502Trunk = "后备箱储物",
 	IGUI_VehiclePartF3502HeadacheRack = "带工具箱的车顶行李架",
-	IGUI_VehiclePartF3502Gunrack = "枪架"
+	IGUI_VehiclePartF3502Gunrack = "枪架",
 }

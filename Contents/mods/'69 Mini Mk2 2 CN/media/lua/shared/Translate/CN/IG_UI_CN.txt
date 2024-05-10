@@ -1,8 +1,8 @@
 IG_UI_CN = {
 	IGUI_VehicleName69mini = "'69 Mini",
-	IGUI_VehicleName69miniUnionJack = "英国国旗 Mini",
-	IGUI_VehicleName69miniMrB = "憨豆先生的 Mini",
-	IGUI_VehicleName69miniIJ = "意大利任务 Mini",
+	IGUI_VehicleName69miniUnionJack = "英国国旗版 Mini",
+	IGUI_VehicleName69miniMrB = "憨豆先生版 Mini",
+	IGUI_VehicleName69miniIJ = "意大利任务版 Mini",
 	IGUI_VehicleName69miniPS = "斗牛犬特别版 Mini",
 
 	IGUI_VehiclePartMINI69BumperFront = "前保险杠",

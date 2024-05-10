@@ -1,9 +1,0 @@
-IG_UI_CN = {
-	IGUI_VehicleName67commando = "'67 凯迪拉克·盖奇突击者"
-	IGUI_VehicleName67commandoPolice = "'67 凯迪拉克·盖奇警用版"
-	IGUI_VehicleName67commandoT50 = "'67 凯迪拉克·盖奇突击者T50"
-	IGUI_VehicleName67commandoBurnt = "'67 凯迪拉克·盖奇突击者焚毁版"
-
-	IGUI_VehiclePartV100Toolbox = "工具箱",
-	IGUI_VehiclePartV100ToolboxLid = "工具箱盖",
-}

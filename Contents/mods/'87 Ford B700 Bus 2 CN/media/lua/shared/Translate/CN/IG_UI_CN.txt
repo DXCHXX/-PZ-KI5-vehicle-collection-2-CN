@@ -29,11 +29,11 @@ IG_UI_CN = {
 	IGUI_VehiclePartB700SideRightArmor = "右侧装甲",
 
 	IGUI_VehiclePartB700Roofrack = "车顶行李架",
-	IGUI_VehiclePartB700GasCan0 = "汽油罐",
-	IGUI_VehiclePartB700GasCan1 = "汽油罐",
+	IGUI_VehiclePartB700GasCan0 = "汽油罐1",
+	IGUI_VehiclePartB700GasCan1 = "汽油罐2",
 	IGUI_VehiclePartB700Generator = "发电机",
-	IGUI_VehiclePartB700SpareTireOne = "备胎",
-	IGUI_VehiclePartB700SpareTireTwo = "备胎",
+	IGUI_VehiclePartB700SpareTireOne = "备胎1",
+	IGUI_VehiclePartB700SpareTireTwo = "备胎2",
 
 	IGUI_VehiclePartSeatP1 = "座位1",
 	IGUI_VehiclePartSeatP2 = "座位2",

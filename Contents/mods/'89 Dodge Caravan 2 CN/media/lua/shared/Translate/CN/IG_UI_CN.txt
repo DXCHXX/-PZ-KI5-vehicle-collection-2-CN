@@ -24,8 +24,8 @@ IG_UI_CN = {
 	IGUI_VehiclePartDGC89BackRightArmor = "后右小窗装甲",
 	IGUI_VehiclePartDGC89WindshieldRearArmor = "后挡风玻璃装甲",
 
-	IGUI_VehiclePartDGC89GasCan0 = "汽油罐",
-	IGUI_VehiclePartDGC89GasCan1 = "汽油罐",
-	IGUI_VehiclePartDGC89GasCan2 = "汽油罐",
+	IGUI_VehiclePartDGC89GasCan0 = "汽油罐1",
+	IGUI_VehiclePartDGC89GasCan1 = "汽油罐2",
+	IGUI_VehiclePartDGC89GasCan2 = "汽油罐3",
 	IGUI_VehiclePartDGC89Generator = "发电机"
 }

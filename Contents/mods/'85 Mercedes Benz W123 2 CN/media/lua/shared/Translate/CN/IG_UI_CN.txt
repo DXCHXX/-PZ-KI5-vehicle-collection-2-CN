@@ -1,9 +1,0 @@
-IG_UI_CN = {
-	
-	IGUI_VehicleName85mercJunk = "'85 梅华奔驰W123 废车",
-	IGUI_VehicleName85mercSedan = "'85 梅华奔驰W123 轿车",
-	IGUI_VehicleName85mercWagon = "'85 梅华奔驰W123 旅行车",
-	IGUI_VehicleName85mercWagon2 = "'85 梅华奔驰W123 生存者旅行车",
-
-	IGUI_VehiclePartmercroofrack = "车顶行李架",
-}

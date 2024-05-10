@@ -25,7 +25,7 @@ IG_UI_CN = {
 	IGUI_VehiclePartISZ89Trunk = "后备箱储物",
 	IGUI_VehiclePartISZ89Roofrack = "车顶行李架",
 
-	IGUI_VehiclePartISZ89GasCan0 = "汽油罐",
-	IGUI_VehiclePartISZ89GasCan1 = "汽油罐",
+	IGUI_VehiclePartISZ89GasCan0 = "汽油罐1",
+	IGUI_VehiclePartISZ89GasCan1 = "汽油罐2",
 	IGUI_VehiclePartISZ89Generator = "发电机",
 }
